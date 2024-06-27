@@ -16,8 +16,8 @@
 
 ## Olá, me chamo Alexandre e sou um estudante de análise e desenvolvimento de sistemas
 
-
-<div style="display: inline_block"><br>
+<div  align="center">
+  <div style="">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -34,7 +34,7 @@
   
 </div>
 <br>
-
+</div>
 <br>
 
 
